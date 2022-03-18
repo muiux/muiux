@@ -15,12 +15,12 @@
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>
