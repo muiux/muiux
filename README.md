@@ -3,8 +3,8 @@
 </p>
 <!-- <h6 align="center">Skype: <a href="https://join.skype.com/invite/ynWwV3X0f4bU" target="__blank">live:.cid.845197c69ef3598f</a> <<====>> Discord: HighBuilder#6882</h6> -->
   
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=H-Builder.H-Builder" />
-<img align="right" src="https://img.shields.io/github/followers/H-Builder?label=Follow&style=social" />
+<!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=H-Builder.H-Builder" /> -->
+<!-- <img align="right" src="https://img.shields.io/github/followers/H-Builder?label=Follow&style=social" /> -->
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=H-Builder&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtovmach&layout=compact&theme=merko&count_private=true" />
