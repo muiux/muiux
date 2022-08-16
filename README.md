@@ -10,6 +10,7 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtovmach&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
+<br />
 <h2 align="left" id="macropower-tech">Skill Set</h2>
 
 <table>
