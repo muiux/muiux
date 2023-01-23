@@ -6,10 +6,6 @@
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=muiux.muiux" /> -->
 <!-- <img align="right" src="https://img.shields.io/github/followers/muiux?label=Follow&style=social" /> -->
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=muiux&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrtovmach&layout=compact&theme=merko&count_private=true" />
-<img height="150px" />
-
 <br />
 <h2 align="left" id="macropower-tech">Skill Set</h2>
 
@@ -47,11 +43,3 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
   </tr>
 </table>
-
-<h2 align="left" id="macropower-tech">Github Status</h2>
-
-<br />
-
-[![muiux's github activity graph](https://activity-graph.herokuapp.com/graph?username=muiux&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=muiux&theme=github&count_private=true)
-
-<br />
